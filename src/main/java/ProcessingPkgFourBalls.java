@@ -13,7 +13,7 @@ public class ProcessingPkgFourBalls extends PApplet {
     @Override
     public void settings() {
         super.settings();
-        size(WIDTH, HEIGHT);git
+        size(WIDTH, HEIGHT);
     }
 
     @Override
